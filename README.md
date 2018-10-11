@@ -6,9 +6,9 @@
  - [In progress] cooking
  <h2> Heritage </h2>
   - [] Languages (urdu,arabic,french and english)
- - [] Islamic beliefs
+ - [x] Islamic beliefs
  - [x] Pakistan (flag and anthem)
- - [] Pakistani bloodline
+ - [x] Pakistani bloodline
  <h2> How Cananda shaped me </h2>
   - [] food wise (mary browns,mcdonalds and poutines)
   - [] fashion (hoddies)
