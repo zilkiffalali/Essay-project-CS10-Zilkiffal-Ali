@@ -3,15 +3,15 @@
  <h2> hobbies </h1>
  - [x] gaming <br>
  - [x] clarinet <br>
- - [In progress] cooking
+ - [x] cooking
  <h2> Heritage </h2>
   - [x] Languages (urdu,arabic,french and english) <br>
  - [x] Islamic beliefs <br>
  - [x] Pakistan (flag and anthem) <br>
- - [x] Pakistani bloodline<br>
+ - [x] Pakistani bloodline <br>
  <h2> How Cananda shaped me </h2>
   - [] food wise (mary browns,mcdonalds and poutines) <br>
-  - [] fashion (hoddies) <br>
+  - [] fashion (hoodies) <br>
   - [] my accent <br>
   <h2> Interesting facts </h2>
   - [] I have no prefrence  for music choices <br>
