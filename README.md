@@ -10,11 +10,11 @@
  - [x] Pakistan (flag and anthem) <br>
  - [x] Pakistani bloodline <br>
  <h2> How Cananda shaped me </h2>
-  - [] food wise (mary browns,mcdonalds and poutines) <br>
-  - [] fashion (hoodies) <br>
-  - [] my accent <br>
+  - [x] food wise (mary browns,mcdonalds and poutines) <br>
+  - [x] fashion (hoodies) <br>
+  - [x] my accent <br>
   <h2> Interesting facts </h2>
-  - [] I have no prefrence  for music choices <br>
+  - [] I faviorate song  <br>
   - [] right handed <br>
   - [] right side of my body is more flexible than my left <br>
   - [] I LOVE MEMES <br>
